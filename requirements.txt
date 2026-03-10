@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+duckduckgo-search>=6.0.0
+google-generativeai
+pydantic-settings
+pydantic>=2.0
+python-dotenv
+slowapi
+markdown
+xhtml2pdf
+gunicorn
